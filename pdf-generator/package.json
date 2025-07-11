@@ -1,0 +1,16 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "Node.js + Puppeteer PDF server",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^24.12.1"
+  }
+}
